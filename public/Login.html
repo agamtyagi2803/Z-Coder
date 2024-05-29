@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login-Page</title>
+    <link rel="stylesheet" href="css/Login.css">
+</head>
+<body style="background-image: url('css/pic.jpg'); background-size:100%;">
+    
+  <div class="flexing">
+      <div class="move">Z</div>
+      <div class="move">-</div>
+      <div class="move">C</div>
+      <div class="move">O</div>
+      <div class="move">D</div>
+      <div class="move">E</div>
+      <div class="move">R</div>
+  </div>
+  
+  <div class="login-box">
+      <p class="hi" id="hey2" onpointerenter="func2()" onpointerleave="func3()">Login here</p>
+      <form id="loginForm" action="/login" method="POST">
+          <div class="user-box">
+            <input type="email" id="username" required name="username">
+            <label>Username</label>
+          </div>
+          <div class="user-box">
+            <input type="password" id="password" required name="password">
+            <label>Password</label>
+          </div>
+          <button id="submitLink" class="click">Submit</button>
+      </form>
+      <div class="line"></div>
+      <div class="register">Don't have an account? <b><a href="registration.html" style="color: rgb(163, 159, 159);">Register here.</a></div>
+      
+
+  </div>    
+
+</body>
+</html>

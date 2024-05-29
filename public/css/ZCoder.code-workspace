@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/ZCoder"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "ZCoder"
+	}
+}

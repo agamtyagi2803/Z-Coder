@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+    /* padding: 0 20px; */
+  }
+  
+  header {
+    background: linear-gradient(to bottom, #310c5f, #ffffff);
+    /* padding: 20px 0; */
+    /* padding-left: 80px; */
+    color: white;
+  }
+  
+  .container {
+    margin-right: 20px;
+    display: flex;
+    padding-bottom: ;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  .container2 {
+    margin-right: 20px;
+    display: flex;
+    
+    /* padding-bottom:200px ; */
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .container .h2{
+    margin-bottom: 0;
+    padding-bottom: 154px;
+    padding-left: 30px;
+  }
+
+  .container .alpha{
+    margin-bottom: 0;
+    padding-bottom: 40px;
+    padding-left: 60px;
+    font-size: 80px;
+    color: #000000;;
+  }
+
+  .container .beta {
+    font-family: fantasy;
+    font-size: 40px;
+    margin-right: 90px;
+    padding-top: 60px;
+    text-align: center;
+    line-height: 60px;
+    color: #000000;
+    animation: scaleAnimation 2s ease infinite alternate; /* Apply animation */
+  }
+  
+  @keyframes scaleAnimation {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05) ; /* Scale up to 1.05 at 50% of the animation duration */
+      color: #1b9690;
+    }
+    100% {
+      transform: scale(1); /* Scale back to normal size at the end of the animation */
+    }
+  }
+
+
+  .container {
+    margin-bottom: 0px;
+    margin-top: 0;
+    /* padding-bottom: 54px; */
+    padding-left: 100px;
+  }
+
+  .container .gamma{
+    font-family:fantasy;
+    font-size: 17px;
+    padding-left: 20px;
+  }
+
+
+  .logo h1 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+    /* margin-left: 0px; */
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+
+  
+  .contact {
+    background: linear-gradient(to top, #1c75c9, #ffffff);
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    margin-top: 70px;
+    height: 78px;
+    font-size: 20px;
+}
+  
+  .contact h2 {
+    /* margin-bottom:30px; */
+    padding-bottom: 30px;
+  }
+  
+  .contact a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding-bottom: 130px;
+  }
+  .download{
+    padding-bottom: 30px;
+    margin-bottom: 0;
+
+  }
+  
+  footer {
+    background:#333;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    height: 23px;
+    
+  }
+  
+  
+  footer ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
