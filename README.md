@@ -13,7 +13,7 @@ How to use the website in your system?
 5. Open the website "localhost:3000/" in your browser.
 
 Here is the preview:-
-
+(Apologies for the video quality. The github doesn't allow large video size )
 
 
 https://github.com/adroit-anuj/Z-Coder/assets/134070793/45e0b38e-ab8f-4170-bebf-565ed9de1975
