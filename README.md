@@ -11,3 +11,10 @@ How to use the website in your system?
 3. Install npm and express. Run the command "npm init -y" to install the required modules.
 4. Run the command "node index.js"
 5. Open the website "localhost:3000/" in your browser.
+
+Here is the preview:-
+
+
+
+https://github.com/adroit-anuj/Z-Coder/assets/134070793/45e0b38e-ab8f-4170-bebf-565ed9de1975
+
