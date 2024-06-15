@@ -12,6 +12,21 @@ How to use the website in your system?
 4. Run the command "node index.js"
 5. Open the website "localhost:3000/" in your browser.
 
+
+
+
+Technologies Used
+      NodeJS | ExpressJS | HTML | PostgreSQL | CSS | Integrated Compiler
+
+
+Key Features
+      ‣ User authentication and account management
+      ‣ Integrated Compiler for testing your solutions
+      ‣ Bookmarking coding problems via a custom Web Extension
+      ‣ Responsive web design for seamless user experience across devices
+
+
+
 Here is the preview:-
 (Apologies for the video quality. Github doesn't allow large video size in README.MD file. PS:- Video has been uploaded in the "Vid" file! )
 
