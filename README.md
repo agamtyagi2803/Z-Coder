@@ -58,7 +58,6 @@ If you have any questions or need further assistance, feel free to contact us. W
 
 Thank you for choosing Z-Coder. Happy coding!
 
-![Z-Coder Logo](path_to_logo_image)
 
 
 
