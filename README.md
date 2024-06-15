@@ -36,7 +36,11 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 
 Check out a preview of Z-Coder in action:
 *(Apologies for the video quality. Due to GitHub's file size limitations, the video is available in the "Vid" file.)*
-https://github.com/adroit-anuj/Z-Coder/assets/134070793/45e0b38e-ab8f-4170-bebf-565ed9de1975
+
+
+https://github.com/adroit-anuj/Z-Coder/assets/134070793/a5c27d15-4e91-477a-9125-c79a98e2227c
+
+
 
 ## Installation and Setup
 
