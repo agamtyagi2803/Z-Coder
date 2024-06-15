@@ -15,7 +15,7 @@ How to use the website in your system?
 
 
 
-Technologies Used
+Technologies Used \
       NodeJS | ExpressJS | HTML | PostgreSQL | CSS | Integrated Compiler
 
 
