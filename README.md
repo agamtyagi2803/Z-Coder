@@ -23,7 +23,7 @@ Key Features \
       ‣ User authentication and account management \
       ‣ Integrated Compiler for testing your solutions \
       ‣ Bookmarking coding problems via a custom Web Extension \
-      ‣ Responsive web design for seamless user experience across devices \
+      ‣ Responsive web design for seamless user experience across devices 
 
 
 
