@@ -1,4 +1,4 @@
-# <p style="color:"red";">Z-Coder</p>
+# Z-Coder
 
 Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your unsolved or favorite coding problems! With Z-Coder, you can efficiently keep track of the problems you want to tackle and enjoy the convenience of our built-in compiler. We hope you have a fantastic experience!
 
@@ -37,6 +37,11 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 Check out a preview of Z-Coder in action:
 *(Apologies for the video quality. Due to GitHub's file size limitations, the video is available in the "Vid" file.)*
 
+
+https://github.com/adroit-anuj/Z-Coder/assets/134070793/fb4d78ab-8622-429b-a917-bbd2b7506bf8
+
+
+
 ## Installation and Setup
 
 To get started with Z-Coder on your local machine, follow these steps:
@@ -51,9 +56,9 @@ To get started with Z-Coder on your local machine, follow these steps:
 
 ## Contact and Support
 
-If you have any questions or need further assistance, feel free to contact us. We're here to help you make the most out of Z-Coder!
+If you have any questions or need further assistance, feel free to contact us on the following email-ID. We're here to help you make the most out of Z-Coder!
 
----
+adroianuj@gmail.com
 
 Thank you for choosing Z-Coder. Happy coding!
 
