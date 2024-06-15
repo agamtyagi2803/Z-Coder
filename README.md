@@ -1,4 +1,4 @@
-# Z-Coder
+# <p style="color:"red";">Z-Coder</p>
 
 Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your unsolved or favorite coding problems! With Z-Coder, you can efficiently keep track of the problems you want to tackle and enjoy the convenience of our built-in compiler. We hope you have a fantastic experience!
 
