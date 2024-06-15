@@ -15,15 +15,15 @@ How to use the website in your system?
 
 
 
-Technologies Used \
+Technologies Used:- \
       NodeJS | ExpressJS | HTML | PostgreSQL | CSS | Integrated Compiler
 
 
-Key Features
-      ‣ User authentication and account management
-      ‣ Integrated Compiler for testing your solutions
-      ‣ Bookmarking coding problems via a custom Web Extension
-      ‣ Responsive web design for seamless user experience across devices
+Key Features \
+      ‣ User authentication and account management \
+      ‣ Integrated Compiler for testing your solutions \
+      ‣ Bookmarking coding problems via a custom Web Extension \
+      ‣ Responsive web design for seamless user experience across devices \
 
 
 
