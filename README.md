@@ -1,10 +1,10 @@
-# Z-Coder
+# <span style="color: #3498db;">Z-Coder</span>
 
 Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your unsolved or favorite coding problems! With Z-Coder, you can efficiently keep track of the problems you want to tackle and enjoy the convenience of our built-in compiler. We hope you have a fantastic experience!
 
-## Getting Started
+## <span style="color: #2ecc71;">Getting Started</span>
 
-### How to Use the Website
+### <span style="color: #e74c3c;">How to Use the Website</span>
 
 1. **Fork and Download**: Start by forking and downloading the Z-Coder repository.
 2. **Prerequisites**: Ensure you have NodeJS and PostgreSQL installed on your system.
@@ -16,7 +16,7 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 
 *Note: Don't forget to unzip the vendor file located in `/public`.*
 
-## Technologies Used
+## <span style="color: #f1c40f;">Technologies Used</span>
 
 - **NodeJS**
 - **ExpressJS**
@@ -25,24 +25,21 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 - **CSS**
 - **Integrated Compiler**
 
-## Key Features
+## <span style="color: #9b59b6;">Key Features</span>
 
 - **User Authentication and Account Management**: Securely create and manage your accounts.
 - **Integrated Compiler**: Test your solutions directly on our platform.
 - **Bookmarking Coding Problems**: Use our custom web extension to bookmark coding problems effortlessly.
 - **Responsive Web Design**: Enjoy a seamless user experience across all devices.
 
-## Preview
+## <span style="color: #e67e22;">Preview</span>
 
 Check out a preview of Z-Coder in action:
 *(Apologies for the video quality. Due to GitHub's file size limitations, the video is available in the "Vid" file.)*
 
+[![Z-Coder Preview](https://github.com/adroit-anuj/Z-Coder/assets/134070793/a5c27d15-4e91-477a-9125-c79a98e2227c)](https://github.com/adroit-anuj/Z-Coder/assets/134070793/a5c27d15-4e91-477a-9125-c79a98e2227c)
 
-https://github.com/adroit-anuj/Z-Coder/assets/134070793/a5c27d15-4e91-477a-9125-c79a98e2227c
-
-
-
-## Installation and Setup
+## <span style="color: #2ecc71;">Installation and Setup</span>
 
 To get started with Z-Coder on your local machine, follow these steps:
 
@@ -54,7 +51,7 @@ To get started with Z-Coder on your local machine, follow these steps:
 6. **Start the Application**: Use `node index.js` to start the server.
 7. **Access the Application**: Open `localhost:3000` in your web browser to start using Z-Coder.
 
-## Contact and Support
+## <span style="color: #e74c3c;">Contact and Support</span>
 
 If you have any questions or need further assistance, feel free to contact us. We're here to help you make the most out of Z-Coder!
 
@@ -62,11 +59,7 @@ If you have any questions or need further assistance, feel free to contact us. W
 
 Thank you for choosing Z-Coder. Happy coding!
 
-
-
-
-
-## Screenshots
+## <span style="color: #3498db;">Screenshots</span>
 
 ![Screenshot 2024-06-15 at 11 40 57 PM](https://github.com/adroit-anuj/Z-Coder/assets/134070793/6c17413e-819f-4515-aed2-80a5c5317ffd)
 ![Screenshot 2024-06-15 at 11 41 16 PM](https://github.com/adroit-anuj/Z-Coder/assets/134070793/c6b2458d-7365-4546-8fe5-e2d5983104de)
@@ -79,6 +72,6 @@ Thank you for choosing Z-Coder. Happy coding!
 
 ![Screenshot 2024-06-15 at 11 48 47 PM](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9267c915-cfda-4935-ae5e-4ee4c96f751c)
 
-Made with ❤️ by:-
+<span style="color: #e74c3c;">Made with ❤️ by:-</span>
 
 ![Screenshot 2024-06-15 at 11 49 53 PM](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9d626106-5327-439b-b950-e007f2cd7b98)
