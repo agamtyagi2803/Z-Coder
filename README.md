@@ -75,6 +75,6 @@ Thank you for choosing Z-Coder. Happy coding!
 
 ![Screenshot 7](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9267c915-cfda-4935-ae5e-4ee4c96f751c)
 
-Made with ❤️ by:
+## Made with ❤️ by:
 
 ![Made with love](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9d626106-5327-439b-b950-e007f2cd7b98)
