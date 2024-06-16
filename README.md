@@ -14,6 +14,11 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
     - Execute the command `node index.js`.
 5. **Access the Website**: Open your browser and navigate to `localhost:3000/`.
 
+    *Note: Don't forget to unzip the vendor file located in `/public`.*
+
+
+
+
 ### How to Use our Extension
 
 **For FireFox Users**
@@ -30,7 +35,6 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 4. When you find an extension you'd like to add, click Add to Chrome.
 5. If you're adding an extension: Review the types of data that the extension will be able to access. Click Add extension.
 
-*Note: Don't forget to unzip the vendor file located in `/public`.*
 
 ## Technologies Used
 
