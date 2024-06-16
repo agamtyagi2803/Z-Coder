@@ -14,6 +14,22 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
     - Execute the command `node index.js`.
 5. **Access the Website**: Open your browser and navigate to `localhost:3000/`.
 
+### How to Use the Custom Extension
+
+**For FireFox Users**
+1. Save the "Extension" folder in your local system.
+2. Open Application Menu, and select "Add-ons and Themes".
+3. Click in the tools button, right below the search bar, and select "Debug Add-ons"
+4. Click on "Load Temporary Add-on..." and select html file from "Extension" folder.
+5. The Extension is ready to use.
+
+**For Chrome Users**
+1. Open the Chrome Web Store.
+2. In the left column, click Extensions.
+3. Browse or search for what you'd like to add.
+4. When you find an extension you'd like to add, click Add to Chrome.
+5. If you're adding an extension: Review the types of data that the extension will be able to access. Click Add extension.
+
 *Note: Don't forget to unzip the vendor file located in `/public`.*
 
 ## Technologies Used
