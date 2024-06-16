@@ -14,7 +14,7 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
     - Execute the command `node index.js`.
 5. **Access the Website**: Open your browser and navigate to `localhost:3000/`.
 
-### How to Use the Custom Extension
+### How to Use our Extension
 
 **For FireFox Users**
 1. Save the "Extension" folder in your local system.
