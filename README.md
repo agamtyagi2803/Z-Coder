@@ -95,6 +95,37 @@ Thank you for choosing Z-Coder. Happy coding!
 
 ![Screenshot 7](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9267c915-cfda-4935-ae5e-4ee4c96f751c)
 
-## Made with ❤️ by:
+## Contributors | Made with ❤️ by:
 
 ![Made with love](https://github.com/adroit-anuj/Z-Coder/assets/134070793/9d626106-5327-439b-b950-e007f2cd7b98)
+
+
+Thanks goes to these wonderful people:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abhishekbindra26">
+        <img src="https://avatars.githubusercontent.com/Abhishekbindra26" width="100px;" alt="Abhishekbindra26"/>
+        <br />
+        <sub><b>Abhishekbindra26</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adroit-anuj">
+        <img src="https://avatars.githubusercontent.com/adroit-anuj" width="100px;" alt="adroit-anuj"/>
+        <br />
+        <sub><b>adroit-anuj</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/agamtyagi2803">
+        <img src="https://avatars.githubusercontent.com/agamtyagi2803" width="100px;" alt="agamtyagi2803"/>
+        <br />
+        <sub><b>agamtyagi2803</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
