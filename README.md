@@ -47,8 +47,8 @@ Welcome to **Z-Coder**, the ultimate platform for bookmarking and managing your 
 
 ## Key Features
 
-- **User Authentication and Account Management**: Securely create and manage your accounts.
 - **Integrated Compiler**: Test your solutions directly on our platform.
+- **User Authentication and Account Management**: Securely create and manage your accounts.
 - **Bookmarking Coding Problems**: Use our custom web extension to bookmark coding problems effortlessly.
 - **Custom Web Extension**: Helping to bookmark coding problems directly from problem web page to bookmark webpage.
 ## Preview
