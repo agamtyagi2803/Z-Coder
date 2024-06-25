@@ -77,7 +77,7 @@ To get started with Z-Coder on your local machine, follow these steps:
 
 If you have any questions or need further assistance, feel free to contact us on the following email-ID. We're here to help you make the most out of Z-Coder!
 
-<a href="mailto:adroitanuj@gmail.com" email>`adroitanuj@gmail.com`
+<a href="mailto:adroitanuj@gmail.com">`adroitanuj@gmail.com`</a>
 
 Thank you for choosing Z-Coder. Happy coding!
 
