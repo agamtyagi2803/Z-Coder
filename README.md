@@ -98,10 +98,10 @@ Thank you for choosing Z-Coder. Happy coding!
 
 
 
-## Made with ❤️ by:
+## <p align="center">Made with ❤️ by:</p>
 
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/Abhishekbindra26">
