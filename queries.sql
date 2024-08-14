@@ -1,7 +1,8 @@
 create table zcoder(
 
-    id serial primary key,
-    email varchar(200) not null,
-    password varchar(200) not null
+    id int primary key,
+    email varchar(300) not null,
+    password varchar(300) not null
+    
 
 );
